@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739998374674",
+    "project_id": "tuags7papbg",
+    "storage_bucket": "tuags7papbg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739998374674:android:040e448e2c9a09a2f3f1cb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739998374674-3v1cde9tuiuck8t7vivmp13jmi77anqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXw-bb8X0-tXpxcS9zROLWrBTinW-LIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739998374674-3v1cde9tuiuck8t7vivmp13jmi77anqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
